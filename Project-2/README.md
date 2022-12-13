@@ -8,4 +8,4 @@
 
 3) Second we have given the background image to the section and placed the text and button which is central aligned.
 
-[Click here to view the live project]()
+[Click here to view the live project](https://spontaneous-mohan-project2.netlify.app/ "FSJS2 Mohan Project-2")
